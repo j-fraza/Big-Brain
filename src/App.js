@@ -11,7 +11,7 @@ import './App.css';
 
 const app = new Clarifai.App({
   apiKey: '23f32279aece4be5914845fd6655d801',
- });
+});
 
 class App extends Component {
   constructor() {
