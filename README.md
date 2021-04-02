@@ -1,5 +1,9 @@
 # Big Brain
 
+## Before Running the Frontend:
+Be sure to clone the [backend/api repo](https://github.com/j-fraza/Big-Brain-Server) of this project,
+and follow the README before proceeding to run this repo...
+
 ## Available Scripts
 
 In the project directory, you can run:
