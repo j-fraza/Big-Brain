@@ -11,8 +11,11 @@ In the project directory, you can run:
 
 and
 
-### `npm start`
-to run the app within a development server (localhost).
+### `npm run start:dev`
+to run the app in the development mode (localhost).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+When asked:
+
+### `Would you like to run the app on another port instead? » (Y/n)`,
+
+enter "y" to view it in the browser.
